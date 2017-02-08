@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    //COMMIT THEN PUSH
+    
     func sayHello() {
         print("Sup world!")
     }
