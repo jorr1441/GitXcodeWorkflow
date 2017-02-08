@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     //COMMIT THEN PUSH
     
     func sayHello() {
-        print("Sup world!")
+        print("Sup world! We're building a tree. Yes we are.")
     }
 
 }
